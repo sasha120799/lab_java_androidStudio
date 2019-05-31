@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="_0">0</string>
+    <string name="timer">Timer</string>
+</resources>
